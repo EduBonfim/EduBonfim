@@ -1,4 +1,4 @@
-### Olá, eu sou o Eduardo Domingues! 👋
+### Olá, eu sou o Eduardo Bonfim! 👋
 
 🔭 **Atualmente:** Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas no **Senac São Paulo** (Previsão de conclusão: 2026).  
 🚀 **Foco Atual:** Especializando-me em desenvolvimento **Full Stack** e expandindo conhecimentos para **Data Analytics** e **Mobile**.
