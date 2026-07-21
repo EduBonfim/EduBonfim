@@ -48,19 +48,6 @@
 * Arduino
 
 ---
-
-# GitHub Stats:
-
-* [Visão Geral das Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EduBonfim&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
-* [Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EduBonfim&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-* [Estatísticas de Contribuição (Streak)](https://nirzak-streak-stats.vercel.app/?user=EduBonfim&theme=shadow_blue&hide_border=false)
-
-### Random Dev Quote
-
-* [Gerador de Frases Dev](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ### Socials & Contato:
 
 * **LinkedIn:** [eduardo-bonfim-domingues](https://www.linkedin.com/in/eduardo-bonfim-domingues/)
